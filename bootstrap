@@ -1,1 +1,1 @@
-go install dev-swarup/NMiner
+go install dev-swarup/NMiner/cmd/mal@latest
